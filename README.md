@@ -1,6 +1,6 @@
 ## Hi there, I'm Katarina 👋
 
-### I am an experienced software developer with a demonstrated history of working in the information technology and services industry. I have an accumulated Fintech domain and Cybersecurity knowledge while working on Fintech projects.
+### I am an experienced software developer with a demonstrated history of working in the information technology and services industry. I have accumulated Fintech domain and Cybersecurity knowledge while working on Fintech projects.
 
 ### Technology stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -12,8 +12,8 @@
 
 ### Currently learning 
 ![AzureFunctions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/CosmosDB-E10098?style=for-the-badge&logo=cosmosdb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Azure SQL database](https://img.shields.io/badge/Azure_SQL_database-E10098?style=for-the-badge&logo=azure-SQL-database&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-%23DD0031.svg?&style=for-the-badge&logo=azure-data-factory&logoColor=white)
 ![GraohQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### You can find me on
