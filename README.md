@@ -11,9 +11,9 @@
 
 ### Currently learning 
 ![AzureFunctions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
-![Azure SQL database](https://img.shields.io/badge/Azure_SQL_database-E10098?style=for-the-badge&logo=azure-SQL-database&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-62AD00?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-%23DD0031.svg?&style=for-the-badge&logo=azure-data-factory&logoColor=white)
-![GraohQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### You can find me on
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-ivosevic-039957118/)
