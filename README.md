@@ -16,6 +16,7 @@
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-62AD00?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%23DD0031.svg?&style=for-the-badge&logo=spring-security&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-E10098?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS LAMBDA](https://img.shields.io/badge/AWS_LAMBDA-CC2927?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
 ### You can find me on
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-ivosevic-039957118/)
