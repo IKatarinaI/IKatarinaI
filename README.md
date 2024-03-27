@@ -18,6 +18,7 @@
 
 ### Currently working with 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Maui](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=maui&logoColor=61DAFB)
 ![Azure](https://img.shields.io/badge/Azure-0062AD?style=for-the-badge&logo=azure&logoColor=white)
 ![AzureFunctions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
 
